@@ -1,0 +1,53 @@
+{
+    "coin":[
+        {
+            "name": "Cardano",
+            "symbol": "ADA"
+        },
+        {
+            "name": "Binance Coin",
+            "symbol": "BNB"
+        },
+        {
+            "name":"Bitcoin",
+            "symbol":"BTC"
+        },
+        {
+            "name": "Bitcoin Cash",
+            "symbol": "BCH"
+        },
+        {
+            "name": "Dogecoin",
+            "symbol": "DOGE"
+        },
+        {
+            "name":"Ethereum",
+            "symbol":"ETH"
+        },
+        {
+            "name":"Litecoin",
+            "symbol":"LTC"
+        },  
+        {
+            "name": "Tether",
+            "symbol": "USDT"
+        },
+        {
+            "name": "Solana",
+            "symbol": "SOL"
+        },
+        {
+            "name": "Polkadot",
+            "symbol": "DOT"
+        },
+        {
+            "name": "Ripple",
+            "symbol": "XRP"
+        },
+        {
+            "name": "Monero",
+            "symbol": "XMR"
+        }
+        
+    ]
+}
